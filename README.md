@@ -2,7 +2,7 @@
 Scripts to run a emotion analysis related to contraception on twitter
 
 # Publication 
-The code supports the analysis presented in the manuscript: "Population Attitudes toward Contraceptive Methods Over Time on a Social Media Platform" (under revision) 
+The code supports the analysis presented in the manuscript: "Population attitudes toward contraceptive methods over time on a social media platform" (American Journal of Obstetrics and Gynecology, Available online 9 December 2020) https://www.sciencedirect.com/science/article/pii/S0002937820313788 
 
 # License 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
